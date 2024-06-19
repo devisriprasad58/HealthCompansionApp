@@ -9,7 +9,7 @@ Community: Connect with friends and share achievements.
 Installation
 To install HealthCompanionApp, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/HealthCompanionApp.git
+Clone the repository: git clone https://github.com/devisriprasad58/HealthCompansionApp
 Open the project in your preferred IDE.
 Run the application on an emulator or a physical device.
 Usage
